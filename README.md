@@ -88,8 +88,9 @@ Was your marriage arranged or love? If arranged, who arranged it?
 `Arranged by my Parents`
 
 Excatly how did it happen ane question vaste - IDI most important question
-   `Our both the families have a mutual family friend since they know that we are looking to get married the mutual family friend has introduced our families to one another`
-   `We liked each other after talking to one another and spending time on video calls and we (me and my husband) decided we wanted to get married`
+
+`Our both the families have a mutual family friend since they know that we are looking to get married the mutual family friend has introduced our families to one another`
+`We liked each other after talking to one another and spending time on video calls and we (me and my husband) decided we wanted to get married`
    
 
 What was the location of your marriage?
