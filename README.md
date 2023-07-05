@@ -374,7 +374,7 @@ When are you planning to travel to the US?
 
 What is Husband current address?
 
-`513 Nixon Road, Belmont, North Carolina, 28012 USA`
+`513 Nixon Road, Belmont, North Carolina, Zip code 28012 USA`
 
 ------------
 Important Instructions
