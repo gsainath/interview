@@ -456,9 +456,14 @@ Timeline
 Our Timeline
 ------------
 
-Feb Video Calls and Decided to get married
-March Video Calls
-April 20 I came india
-june 4 engagement
-june 14 wedding
-june 16 reception
+>Feb Video Calls and Decided to get married
+>
+>March Video Calls
+>
+>April 20 I came india
+>
+>june 4 engagement
+>
+>june 14 wedding
+>
+>june 16 reception
