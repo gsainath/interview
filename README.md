@@ -394,33 +394,55 @@ Timeline
 
 
 2015 March
-Btech end
+
+> Btech end
+
 
 2015 Dec
-Went to USA
+
+> Went to USA
+
 
 2017 Dec
-Graduated Masters in Computer Science
-University Of Dayton, Dayton Ohio
+
+> Graduated Masters in Computer Science
+> 
+> University Of Dayton, Dayton Ohio
+
 
 2018 April
-First Job
-Employer Veridic Solutions
-Client Lowes
+
+> First Job
+> 
+> Employer: Veridic Solutions
+> 
+> Client: Lowes
+
 
 2018 June
-Moved to Charlotte North Carolina
+
+> Moved to Charlotte North Carolina
+
 
 2021 June 07
-Full time Job
-Employer Sureify Labs
-San Jose California
+
+> Full time Job
+> 
+> Employer: Sureify Labs
+> 
+> San Jose California
+
 
 2021 October 01
-H1B Visa Approved
+
+> H1B Visa Approved
+
 
 2023 May 05
-H1B Visa Got Stamped in passport
+
+> H1B Visa Got Stamped in passport
+
 
 2023 June 14
-Married
+
+> Married
