@@ -8,7 +8,7 @@ The H4 visa interview questions and answers are divided into 4 categories. These
 
 `Your spouse`
 
-
+------------
 Questions and Answers About You
 ------------
 
@@ -349,9 +349,9 @@ Where was the visa application filed, the US or India?
 
 `here in india`
 
-
+------------
 Important Instructions
-
+------------
 
 `Answer confidently. Avoid stamerring.`
 
