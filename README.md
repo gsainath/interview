@@ -151,7 +151,7 @@ How did you collect all necessary documents for this interview?
 
 Why did you not attend the H4 visa interview with your spouse?
 
-`He completed the interview before our marriage and as soon as we got married we scheduled the appointment for my interview.`
+`He got his visa stamping before our marriage and as soon as we got married we scheduled the appointment for my interview.`
 
 What will you do after your visa is completed/ expired? <- Most important question
 
