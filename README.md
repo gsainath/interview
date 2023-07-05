@@ -353,35 +353,35 @@ Where was the visa application filed, the US or India?
 Important Instructions
 ------------
 
-`Answer confidently. Avoid stamerring.`
-
-`Do not give additional answers without being asked.`
-
-`Give straightforward, short answers.`
-
-`When asked for photographs/certificates, give only the ones requested.`
-
-`Try to file your documents in a way that it is easy to find what you’ree looking for.`
-
-`Do not fumble when asked for documents. Label them well and keep them organized.`
-
-`Do not answer dishonestly or with the intent of decieving the officer.`
-
-`Answer honestly and do nont hide facts.`
-
-`Make sure you have all the H4 visa documents ready.`
-
-
-
-`H4 Visa interviewers are trained officers who are able to make the right decision about a candidate.`
-
-`They don’t usually rely 100% on your answers but can make out whether you are the right candidate based on your body language and context.`
-
-`So don’t treat the interview like a question and answer exam. It is more about figuring out whether you are eligible for the visa or not.`
-
-`And officers look for all kinds of clues in your answers and body language and make the right decison. `
-
-`Dont forget the engagement ring and Wedding necklaces`
+>Answer confidently. Avoid stamerring.
+>
+>Do not give additional answers without being asked.
+>
+>Give straightforward, short answers.
+>
+>When asked for photographs/certificates, give only the ones requested.
+>
+>Try to file your documents in a way that it is easy to find what you’ree looking for.
+>
+>Do not fumble when asked for documents. Label them well and keep them organized.
+>
+>Do not answer dishonestly or with the intent of decieving the officer.
+>
+>Answer honestly and do nont hide facts.
+>
+>Make sure you have all the H4 visa documents ready.
+>
+>
+>
+>H4 Visa interviewers are trained officers who are able to make the right decision about a candidate.
+>
+>They don’t usually rely 100% on your answers but can make out whether you are the right candidate based on your body language and context.
+>
+>So don’t treat the interview like a question and answer exam. It is more about figuring out whether you are eligible for the visa or not.
+>
+>And officers look for all kinds of clues in your answers and body language and make the right decison. 
+>
+>Dont forget the engagement ring and Wedding necklaces
 
 
 ------------
