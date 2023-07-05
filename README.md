@@ -1,8 +1,11 @@
 The H4 visa interview questions and answers are divided into 4 categories. These include questions and answers about -`
 
 `You`
+
 `Your marriage`
+
 `H4 visa`
+
 `Your spouse`
 
 
@@ -90,6 +93,7 @@ Was your marriage arranged or love? If arranged, who arranged it?
 Excatly how did it happen ane question vaste - IDI most important question
 
 `Our both the families have a mutual family friend since they know that we are looking to get married the mutual family friend has introduced our families to one another`
+
 `We liked each other after talking to one another and spending time on video calls and we (me and my husband) decided we wanted to get married`
    
 
@@ -171,11 +175,12 @@ From which University did your spouse graduate? What is the highest educational 
 
 
 
-`BTW nenu phd kuda start chesa but complete cheyaledu ,so adi chepodhu, masters eh complete chesa kabati masters ane chepali, but niku idea undadam kosam cheptunna`
 
-`Incomplete PHD from University of Cumberlands, Kentucky, USA`
 
-`Executive masters in information technology`
+
+> BTW nenu phd kuda start chesa but complete cheyaledu ,so adi chepodhu, masters eh complete chesa kabati masters ane chepali, but niku idea undadam kosam cheptunna
+> Incomplete PHD from University of Cumberlands, Kentucky, USA
+> Executive masters in information technology
 
 When is your spouse's birthday?
 
