@@ -371,6 +371,7 @@ Important Instructions
 >
 >Make sure you have all the H4 visa documents ready.
 >
+>---------
 >
 >
 >H4 Visa interviewers are trained officers who are able to make the right decision about a candidate.
