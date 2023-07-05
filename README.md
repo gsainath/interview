@@ -18,13 +18,15 @@ Where will you live in America?
 
 What are your plans to do in the USA?
 
-`To live with my Husband and I will be a homemaker.`
+`I will be a homemaker.`
 
 Do you have family members besides your spouse in America?
 
 `No`
 
 Do you wish to work in America?
+
+`No`
 
 `I do not have any plans of working in America`
 
@@ -42,11 +44,11 @@ With whom will you reside in the United States?
 
 Who is going to support you financially in the United States?
 
-`My spouse will be supporting financially to stay in the United States.`
+`My Husband will be supporting financially to stay in the United States.`
 
 Who is going to pay for your trip as you are going to the United States?
 
-`My spouse will pay for the trip.`
+`My Husband will pay for the trip.`
 
 ------------
 Questions and Answers About Your Marriage
@@ -98,7 +100,7 @@ Excatly how did it happen ane question vaste - IDI most important question
    
 When did you start talking?
 
-`from our first meet in february this year`
+`From our first meet in february this year`
 
 What was the location of your marriage?
 
@@ -116,7 +118,7 @@ What was the total expenditure of your marriage? Who financed it? or How much di
 
 When and where did you meet your spouse for the first time?
 
-`I have met my husband in february 2023 and we met through our families arrangements and we met first time through video calls but later he came to india to get married and we met multiple times before marriage`
+`I have met my husband in february 2023 and we met through our families arrangements and we met first time through video calls`
 
 Where did you two go for your honeymoon?
 
@@ -132,7 +134,7 @@ Which visa are you applying for?
 
 Why do you want an H4 visa?
 
-`I need a H4 visa because I want to stay with my Husband in the United States and he is a H1B visa holder.`
+`I want to stay with my Husband in the United States and he is a H1B visa holder.`
 
 Have you scheduled an appointment by yourself?
 
@@ -219,15 +221,15 @@ Do you know what he works on?
 
 What is the annual income of your spouse?
 
-`116107`
+`$116107`
 
-`One hundred and Sixteen K and One hundred and Seven US dollars`
+`One Sixteen K and One hundred and Seven US dollars`
 
 Do you have your spouse's bank statement?
 
-`I have bank Statements and Pay Slips and W2s`
+`I have bank Statements and Pay Slips`
 
-`-----Show all three bank Statements and Pay Slips and W2s-----`
+`-----Show all three bank Statements and Pay Slips-----`
 
 Do you have your spouse's bank statement OR paystubs?
 
