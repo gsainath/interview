@@ -54,9 +54,9 @@ Questions and Answers About Your Marriage
 
 Is there any photograph or legal document proof of your marriage?
 
-`Yes, I do have marriage certificate and some wedding photographs`
+`Yes, I do have marriage certificate and some wedding photographs and wedding invitation`
 
-`-----show marriage certificate and a wedding photograph------`
+`-----show marriage certificate and a wedding photograph and wedding invitation------`
 
 Can you show us a marriage certificate? or Has your marriage been registered?
 
