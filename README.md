@@ -113,7 +113,7 @@ What was the total expenditure of your marriage? Who financed it? or How much di
 
 When and where did you meet your spouse for the first time?
 
-`I have met my husband in february 2023 and we met through our families arrangements and we met online first time through video calls`
+`I have met my husband in february 2023 and we met through our families arrangements and we met first time through video calls but later he came to india to get married and we met multiple times before marriage`
 
 Where did you two go for your honeymoon?
 
