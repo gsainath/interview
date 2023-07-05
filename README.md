@@ -394,7 +394,7 @@ Important Instructions
 >
 >Do not answer dishonestly or with the intent of decieving the officer.
 >
->Answer honestly and do nont hide facts.
+>Answer honestly and do not hide facts.
 >
 >Make sure you have all the H4 visa documents ready.
 >
