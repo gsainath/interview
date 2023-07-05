@@ -438,6 +438,10 @@ Timeline
 > H1B Visa Approved
 
 
+2022 May
+
+> Moved to Belmont North Carolina
+
 2023 May 05
 
 > H1B Visa Got Stamped in passport
