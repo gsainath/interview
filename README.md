@@ -311,7 +311,7 @@ Did you already book the flight?
 
 where is your husband at present?
 
-`He is in India`
+`He is in India, he will be returning to USA on Aug 9th`
 
 Why did he came to India?
 
