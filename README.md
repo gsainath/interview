@@ -368,8 +368,11 @@ Have you travelled to US before? Is this your first time traveling to the US?
 
 When are you planning to travel to the US?
 
-`I am planning to travel on Ayg 9th`
+`I am planning to travel on Aug 9th`
 
+What is Husband current address?
+
+`513 Nixon Road, Belmont, North Carolina, 28012 USA`
 
 ------------
 Important Instructions
