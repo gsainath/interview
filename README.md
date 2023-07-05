@@ -275,7 +275,7 @@ Can you study on H-4 visa?
 
 If Your Spouse Is Already In The United States, Why Are You Choosing To Apply For A Visa Now?
 
-`We married very recently and I am applying for the H4 Visa as soon as we got married so that I can live with my husband who will be working in USA`
+`We married very recently and I am applying for the H4 Visa as soon as we got married so that I can live with my husband who is working in USA`
 
 Has Your Spouse Accompanied You To The Interview?
 
