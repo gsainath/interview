@@ -96,6 +96,9 @@ Excatly how did it happen ane question vaste - IDI most important question
 
 `We liked each other after talking to one another and spending time on video calls and we (me and my husband) decided we wanted to get married`
    
+When did you start talking?
+
+`from our first meet in february this year`
 
 What was the location of your marriage?
 
@@ -210,6 +213,10 @@ What is the profession of your spouse?
 
 `----Ask them if you can show them the Offer letter----`
 
+Do you know what he works on?
+
+`He work as a DevOps engineer`
+
 What is the annual income of your spouse?
 
 `116107`
@@ -303,7 +310,9 @@ Was the marriage in a temple or hotel or somewhere else?
 
 Are you also working?
 
-`I am working but I have resigned and I am in my Notice period which ends on Aug 2`
+`No, I am not working I have resigned`
+
+`-----dont talk about notice period, etc-----`
 
 Did you already book the flight?
 
@@ -348,6 +357,19 @@ How long has your spouse been in the US?
 Where was the visa application filed, the US or India?
 
 `here in india`
+
+Were you on any other US visa previously?
+
+`No`
+
+Have you travelled to US before? Is this your first time traveling to the US?
+
+`No, this will be the first time`
+
+When are you planning to travel to the US?
+
+`I am planning to travel on Ayg 9th`
+
 
 ------------
 Important Instructions
